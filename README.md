@@ -1,5 +1,5 @@
 
-# Hi, I'm Arman Ali Ashik 👋
+# Hi, I'm Arman Ali Ashik 
 
 🎓 **Statistics & Data Science | Pabna University of Science and Technology (PUST)**
 
